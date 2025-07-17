@@ -1,13 +1,11 @@
-# Infonetica-Project – Configurable Workflow Engine (State‑Machine API)
-
-This is a variant of the original workflow engine, with a new folder structure and naming.
+# Infonetica-Project
 
 ---
 
 ## Environment
 
 - Requires: .NET 8 SDK or later
-- Tested on: Windows 10
+- Tested on: Windows 11
 
 ---
 
@@ -73,8 +71,6 @@ Persistence (optional)
 ---
 
 ## Example Workflow (Step-by-Step)
-
-This section shows how to use the API from start to finish, with beginner-friendly explanations and sample PowerShell commands.
 
 ### 1. **Start the API**
 
