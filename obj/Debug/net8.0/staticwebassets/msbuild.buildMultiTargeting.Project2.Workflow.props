@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Project2.Workflow.props" />
+</Project>
