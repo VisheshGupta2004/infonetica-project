@@ -1,13 +1,11 @@
-# Infonetica-Project – Configurable Workflow Engine (State‑Machine API)
-
-This is a variant of the original workflow engine, with a new folder structure and naming.
+# Infonetica-Project
 
 ---
 
 ## Environment
 
 - Requires: .NET 8 SDK or later
-- Tested on: Windows 10
+- Tested on: Windows 11
 
 ---
 
@@ -73,8 +71,6 @@ Persistence (optional)
 ---
 
 ## Example Workflow (Step-by-Step)
-
-This section shows how to use the API from start to finish, with beginner-friendly explanations and sample PowerShell commands.
 
 ### 1. **Start the API**
 
@@ -178,4 +174,24 @@ You should get an error message saying you can’t act on a final state.
 
 ## License
 
-MIT 
+MIT License
+
+Copyright (c) 2025 Vishesh Gupta
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
